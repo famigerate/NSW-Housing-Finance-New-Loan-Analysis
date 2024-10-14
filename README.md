@@ -1,2 +1,2 @@
-# loan-data-analysis
-loan data analysis using ABS data
+# Housing Finance New Loan Analysis
+Please open the NSW-Housing-Finance-New-Loan-Analysis.ipynb for the project.
